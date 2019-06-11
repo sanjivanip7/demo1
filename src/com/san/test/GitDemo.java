@@ -6,6 +6,8 @@ public class GitDemo {
 		
 		System.out.println("new proctje");
 		System.out.println("new line");
-
+         
+		
+		System.out.println("check");
 	}
 }
